@@ -473,7 +473,7 @@ We are there!
 [g-footer-one]
 [g-section name="credits"]
 
-This website is made with [Grav CMS](http://getgrav.org/) and it is powerd by [Gravstrap Theme](http://diblas.net/themes/gravstrap-theme-to-start-grav-cms-site-with-bootstrap-support/) and [Gravstrap Plugin](http://diblas.net/plugins/use-bootstrap-elements-in-the-grav-cms-way/)
+This website is made with [Grav CMS](http://getgrav.org/) and it is powered by [Gravstrap Theme](http://diblas.net/themes/gravstrap-theme-to-start-grav-cms-site-with-bootstrap-support/) and [Gravstrap Plugin](http://diblas.net/plugins/use-bootstrap-elements-in-the-grav-cms-way/)
 
 [/g-section]
 
@@ -486,7 +486,7 @@ This website is made with [Grav CMS](http://getgrav.org/) and it is powerd by [G
     [raw][g-footer-one]
     [g-section name="credits"]
 
-    This website is made with [Grav CMS](http://getgrav.org/) and it is powerd by [Gravstrap Theme](http://diblas.net/themes/gravstrap-theme-to-start-grav-cms-site-with-bootstrap-support/) and [Gravstrap Plugin](http://diblas.net/plugins/use-bootstrap-elements-in-the-grav-cms-way/)
+    This website is made with [Grav CMS](http://getgrav.org/) and it is powered by [Gravstrap Theme](http://diblas.net/themes/gravstrap-theme-to-start-grav-cms-site-with-bootstrap-support/) and [Gravstrap Plugin](http://diblas.net/plugins/use-bootstrap-elements-in-the-grav-cms-way/)
 
     [/g-section]
 
@@ -502,7 +502,7 @@ This website is made with [Grav CMS](http://getgrav.org/) and it is powerd by [G
 [g-footer-two]
 [g-section name="credits"]
 
-This website is made with [Grav CMS](http://getgrav.org/) and it is powerd by [Gravstrap Theme](http://diblas.net/themes/gravstrap-theme-to-start-grav-cms-site-with-bootstrap-support/) and [Gravstrap Plugin](http://diblas.net/plugins/use-bootstrap-elements-in-the-grav-cms-way/)
+This website is made with [Grav CMS](http://getgrav.org/) and it is powered by [Gravstrap Theme](http://diblas.net/themes/gravstrap-theme-to-start-grav-cms-site-with-bootstrap-support/) and [Gravstrap Plugin](http://diblas.net/plugins/use-bootstrap-elements-in-the-grav-cms-way/)
 
 [/g-section]
 
@@ -516,7 +516,7 @@ This website is made with [Grav CMS](http://getgrav.org/) and it is powerd by [G
     [raw][g-footer-two]
     [g-section name="credits"]
 
-    This website is made with [Grav CMS](http://getgrav.org/) and it is powerd by [Gravstrap Theme](http://diblas.net/themes/gravstrap-theme-to-start-grav-cms-site-with-bootstrap-support/) and [Gravstrap Plugin](http://diblas.net/plugins/use-bootstrap-elements-in-the-grav-cms-way/)
+    This website is made with [Grav CMS](http://getgrav.org/) and it is powered by [Gravstrap Theme](http://diblas.net/themes/gravstrap-theme-to-start-grav-cms-site-with-bootstrap-support/) and [Gravstrap Plugin](http://diblas.net/plugins/use-bootstrap-elements-in-the-grav-cms-way/)
 
     [/g-section]
 
